@@ -1,4 +1,4 @@
-hello-world-express
+Hello World with Express
 ===================
 
-Repository untuk tutorial di blog saya yang berjudul &lt;b>Membuat Hello World Dengan Node.js dan Express&lt;/b>
+Repository untuk tutorial di blog saya yang berjudul Membuat Hello World Dengan Node.js dan Express.
