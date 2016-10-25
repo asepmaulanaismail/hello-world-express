@@ -11,7 +11,7 @@ var app            = express();
 app.use(express.static(__dirname + '/public'));
 
 app.listen(8080);
-console.log('Im listening on port 8080');
+console.log("I'm listening on port 8080");
 
 // First example router
 app.get('/', function(req, res) {
